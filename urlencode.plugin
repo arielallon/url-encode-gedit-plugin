@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=urlencode
+IAge=3
+Name=URL En/De-coder
+Description=URL encode or decode selected text 
+Authors=Ariel Allon
+Copyright=Copyright © 2013 Ariel Allon
+Website=http://www.arielallon.com
+Version=0.1.0
