@@ -23,7 +23,7 @@ Credit Where It's Due
 ---------------------
 
 * Micah Carrick's invaluable tutorial (http://www.micahcarrick.com/writing-plugins-for-gedit-3-in-python.html)
-* Marco Cripa's Convert Special gedit plugin. (http://krypt77.altervista.org/download/gedit/Convert_special_3_0.zip) Structure below apapted from that plugin.
+* Marco Cripa's Convert Special gedit plugin. (http://krypt77.altervista.org/download/gedit/Convert_special_3_0.zip) Structure of this plugin apapted from that plugin.
 
 Still to Come
 -------------
